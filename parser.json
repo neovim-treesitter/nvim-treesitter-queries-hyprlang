@@ -1,7 +1,7 @@
 {
+  "location": null,
+  "lang": "hyprlang",
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-hyprlang",
   "semver": false,
-  "parser_version": "cecd6b748107d9da1f7b4ca03ef95f1f71d93b8f",
-  "location": null,
-  "lang": "hyprlang"
+  "parser_version": "cecd6b748107d9da1f7b4ca03ef95f1f71d93b8f"
 }
